@@ -36,10 +36,3 @@ This repository is created just for learning python(Commercial prohibition).
 |   Game21  |     Whac-A-Mole             |   [click](https://github.com/CharlesPikachu/Games/tree/master/Game21)     |   [click](https://mp.weixin.qq.com/s/OFtW2Lx5i0Y9GXrF_PyqaA) |
 |   Game22  |     Gobang                  |   [click](https://github.com/CharlesPikachu/Games/tree/master/Game22)     |   [click](https://mp.weixin.qq.com/s/79aBuK_EytVAbDp5hY8cHA) |
 
-# Record
-see RECORD dir please → [click](./RECORD)
-
-# More
-#### WeChat Official Accounts
-*Charles_pikachu*  
-![img](pikachu.jpg)
